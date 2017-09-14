@@ -1,1 +1,3 @@
 Hello
+
+I am creating an amazing new line.
