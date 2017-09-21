@@ -1,3 +1,6 @@
 Hello
 
-I am creating an amazing new line.
+I am creating an amazing new line - yes!
+
+And another cool line of text.
+
